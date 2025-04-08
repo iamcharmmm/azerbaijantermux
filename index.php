@@ -7,9 +7,7 @@
   <meta name="description" content="Hacked By AzerbaijanTermux">
   <meta name="keywords" content="Hacked By AzerbaijanTermux">
   <meta property="og:title" content="Hacked By AzerbaijanTermux"/>
-  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
- 
+  
 <style type="text/css">
   body {
     background-color: black;
