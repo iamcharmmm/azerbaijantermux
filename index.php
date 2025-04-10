@@ -30,6 +30,5 @@
 <font size="7" color="red" face="Roboto" style="text-shadow: 5px 0px 10px darkred;">This website got hacked with an Android phone, LOL. </font>
 <br>
 <br>
-<font size="6" color="#DAC082" face="Roboto" style="text-shadow: 5px 0px 10px darkred;">Türk olup Türk milletinin bilgilerini tüm dünyaya aktaran biri ermeni kanı taşıyordur</font>
 </body>
 </html>
