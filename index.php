@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>Hacked By AzerbaijanTermux and ArivaHack</title>
+  <meta charset="utf-8">
+  <meta name="Author" content="Hacked By AzerbaijanTermux and ArivaHack"/>
+    <meta name="description" content="Hacked By AzerbaijanTermux and ArivaHack">
+    <meta name="keywords" content="Hacked By AzerbaijanTermux and ArivaHack">
+    <meta property="og:title" content="Hacked By AzerbaijanTermux and ArivaHack"/>
+    <style type="text/css">
+  body {
+
+    background-color: black;
+    text-align: center; 
+
+
+  }
+</style>
+<style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .hack-text {
+      width: 100%;
+      text-align: center;
+      font-size: 2rem;
+      padding: 20px 0;
+      color: red;
+      font-weight: bold;
+      background-color: #000;
+      position: fixed;
+      top: 60vh;
+      left: 0;
+      z-index: 10;
+    }
+    .content {
+      margin-top: 3px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-grow: 1;
+      width: 100%;
+    }
+    video {
+      bottom: 300vh;    
+      width: 100vw;
+      height: 40vh;
+      object-fit: cover;
+    }
+ </style>
+<html>
+<body>
+<font size="20" color="red" face="Iceland" style="text-shadow: 5px 0px 10px darkred;" >Hacked By AzeTermux and ArivaHack</font>
+<br>
+<br>
+<img src="https://static.wikia.nocookie.net/villains/images/4/4a/Wiki-logo.jpg" width="620" height="410">
+<br>
+<br>
+<font size="8" color="white" face="Iceland" style="text-shadow: 5px 0px 10px darkred;">
+<p> Telegram: <a href="https://t.me/AzeTermux" target="_blank">@AzerbaijanTermux</a> <a href="https://t.me/arivabio" target="_blank">@ArivaHack</a>
+</font>
+<br>
+<br>
+<font size="7" color="red" face="Iceland" style="text-shadow: 5px 0px 10px darkred;">
+Sen phishing atarsın, biz sunucuya Messi gibi çalımlarız
+<br>
+ 
+</font>
+<div class="content">
+    <video id="myVideo" autoplay controls playsinline>
+      <source src="messi.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <script>
+    const video = document.getElementById("myVideo");
+    video.muted = false;
+    video.play().catch(() => {});
+  </script>
+</body>
+</html>
+<?php
+$logfile = "paputulog.txt";
+$logs = file_exists($logfile) ? file($logfile) : [];
+$count = count($logs) + 1;
+
+$log = "$count. request - [" . date("Y-m-d H:i:s") . "] IP: {$_SERVER['REMOTE_ADDR']} - User-Agent: {$_SERVER['HTTP_USER_AGENT']}\n\n";
+file_put_contents($logfile, $log, FILE_APPEND);
+?>
+
