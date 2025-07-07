@@ -71,7 +71,7 @@
 <br>
 <br>
 <font size="7" color="red" face="Iceland" style="text-shadow: 5px 0px 10px darkred;">
-Sen phishing atarsın, biz sunucuya Messi gibi çalımlarız
+Messi gibi 6-7 sunucuya çalım attık. Hâlâ panel kurmaya devam mı edeceksiniz?
 <br>
  
 </font>
